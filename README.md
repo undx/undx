@@ -2,6 +2,13 @@
 I'm Emmanuel and I work for the greatest firm raised in France: [Talend](https://talend.com)!
 
 Checkout or star our [repos](https://github.com/Talend) ;-)
+
+As a side note: 
+- I love and over-use [Emacs](https://gnu.org/software/emacs), but not a great lisper :-( 
+- I use [GUIX](https://guix.gnu.org/) as my second OS ;-)
+- I use [stumpwm](https://github.com/stumpwm/stumpwm) as my WM
+- I use [qutebrowser](https://www.qutebrowser.org/) which is for me the BEST browser ever made (dispite I hate Qt)!
+
 <!--
 **undx/undx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
