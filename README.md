@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm Emmanuel and I work for the greatest firm raised in France: [Talend](https://talend.com)!
 
+Checkout or star our [repos](https://github.com/Talend) ;-)
 <!--
 **undx/undx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
